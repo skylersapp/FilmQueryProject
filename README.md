@@ -16,7 +16,13 @@
 
 ## Technologies used
 
-![Alt Text](http://blog.experts-exchange.com/wp-content/uploads/2012/02/java1.jpg)![Alt Text](http://www.techgeekbuzz.com/wp-content/uploads/2019/03/Eclipse-IDE-300x300.png)![Alt Text](https://4.bp.blogspot.com/-wLNezXDnu_M/WW9FPRuPcZI/AAAAAAAAIfQ/Une2gqnpf3kI2bEIaC8UHQmy93NmOqGBwCLcBGAs/s1600/atom.jpg)![Alt Text](https://i.pinimg.com/originals/27/66/71/276671da1ccff650e3e51a425d52fbda.png)![Alt Text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/256px-Database-mysql.svg.png)
+![Alt Text](http://www.pngall.com/wp-content/uploads/2016/05/Java-PNG-180x180.png)
+![Alt Text](https://itemis.ch/wp-content/uploads/sites/23/2015/06/eclipse5-180x180.jpg)
+![Alt Text](https://media.trustradius.com/product-logos/GV/6S/3COGMZ775P74-180x180.PNG)
+<br>
+![Alt Text](http://ifixit.ie/wp-content/uploads/2015/02/Apple-logo-180x180.png)
+![Alt Text](http://web.corballis.ie/technology_logos/mysql-logo-180x180.png)
+![Alt Text](https://careers.google.com/jobs/dist/img/meta/careers_apple-touch-icon-180x180.a4632facecb104f3a686.png)
 
 ## Challenges
 
