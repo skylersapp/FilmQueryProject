@@ -46,9 +46,9 @@ public class DatabaseAccessorObject implements DatabaseAccessor {
 				film.setActors(findActorsByFilmId(filmId));
 				
 				}
-			if (film == null) {
-				System.out.println("\nThere is no film with that ID. The search result is: ");
-			}
+//			if (film == null) {
+//				
+//			}
 			filmResult.close();
 			stmt.close();
 			conn.close();

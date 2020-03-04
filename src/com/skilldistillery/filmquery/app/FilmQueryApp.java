@@ -80,7 +80,12 @@ public class FilmQueryApp {
 			System.out.print("FILM ID >: ");
 			userInput = input.next();
 			Film pickFilm = db.findFilmById(Integer.parseInt(userInput));
+			if (pickFilm == null) {
+				System.out.println("\nThere is no film with that ID. Please try your search again. ");
+			}
+			else {
 			System.out.println(pickFilm);
+			}
 			break;
 		case "2":
 			System.out.println("\t_____________________________________________________\n");
